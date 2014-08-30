@@ -105,6 +105,18 @@
 }
 
 /*
+* Base Button Tyography
+*
+*/
+.button-uppercase {
+  text-transform: uppercase;
+}
+
+.button-capitalize {
+  text-transform: capitalize;
+}
+
+/*
 * Base Colors
 *
 * Create colors for buttons
